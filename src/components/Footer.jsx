@@ -72,6 +72,7 @@ const Footer = () => {
               <p className="text-primary">2. Rohini, Sector -13</p>
               <p className="text-primary">3. GTB Nagar</p>
               <p className="text-primary">4. Shivalik, Malviya Nagar</p>
+              <p className="text-primary">5. Dehradun</p>
           </div>
       </div>
       <div className="flex flex-col items-center relative mt-4">

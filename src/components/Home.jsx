@@ -14,7 +14,7 @@ const Home = () => {
         <div className=" sm:flex   hidden gap-20 px-16 ">
           <div className="w-full text-left flex items-center gap-1">
             <span className="font-bold text-primary text-[20px] font-sans ">
-              Class 11 & 12 Students
+              For Post Graduate Students
             </span>
             <img src={UpArrow} alt="" />
             <hr className="w-[76%] bg-primary h-[2px] " />
@@ -24,7 +24,7 @@ const Home = () => {
         <div className=" flex px-1 w-full sm:hidden ">
           <div className=" text-left flex items-center gap-2  w-full">
             <span className="font-bold text-primary text-[14px] font-sans ">
-            Class 11 & 12 Students
+            For Post Graduate Students
             </span>
             <img src={UpArrow} alt="" />
             <hr className="w-[46%] bg-primary h-[2px] " />
@@ -43,16 +43,16 @@ const Home = () => {
             <div className="flex flex-col gap-4 ">
               <div>
                 <p className="text-primary font-extrabold text-[18px] sm:text-2xl">
-                  From Being to Becoming: Introduction to Psychology as a Practice
+                3-Month Intensive Training Program for Final-Semester Master’s Psychology Students
                 </p>
               </div>
               <div className="flex flex-col">
                 <div className="flex gap-20">
                   <p className="text-[16px] text-primary font-light w-1/2">
-                    Class 11 & 12 Students
+                  For Post Graduate Students
                   </p>
                   <p className="text-[16px] text-primary font-light w-1/2">
-                    Duration : 12 Hours
+                    Duration : 150 Hours
                   </p>
                 </div>
                 <div className="flex gap-20">
@@ -68,7 +68,7 @@ const Home = () => {
             <div>
               <button className="bg-secondary w-[221px] h-[50px] rounded-xl">
                 <a
-                  href="https://main.d3qumxehbdg7jo.amplifyapp.com/"
+                  href="https://gbutrianer.web.app/"
                   target="_blank"
                 >
                   <span className=" text-primary">EXPLORE</span>
