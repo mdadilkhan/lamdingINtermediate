@@ -43,7 +43,7 @@ const Home = () => {
             <div className="flex flex-col gap-4 ">
               <div>
                 <p className="text-primary font-extrabold text-[18px] sm:text-2xl">
-                3-Month Intensive Training Program for Final-Semester Master’s Psychology Students
+                3-Month Intensive Training Program
                 </p>
               </div>
               <div className="flex flex-col">
