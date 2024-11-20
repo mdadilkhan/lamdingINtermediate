@@ -47,20 +47,20 @@ const Home = () => {
                 </p>
               </div>
               <div className="flex flex-col">
-                <div className="flex gap-20">
-                  <p className="text-[16px] text-primary font-light w-1/2">
-                  For All Students
+                <div className="flex justify-between gap-20">
+                  <p className="text-[16px] text-primary font-light ">
+                  For Undergraduate/Postgraduate
                   </p>
-                  <p className="text-[16px] text-primary font-light w-1/2">
+                  <p className="text-[16px] text-primary font-light ">
                     Duration : 150 Hours
                   </p>
                 </div>
-                <div className="flex gap-20">
-                  <p className="text-[16px] text-primary font-light w-1/2">
+                <div className="flex justify-between gap-20">
+                  <p className="text-[16px] text-primary font-light ">
                     Mode : Online/Offline
                   </p>
-                  <p className="text-[16px] text-primary font-light w-1/2">
-                    Batches : Weekend
+                  <p className="text-[16px] text-primary font-light ">
+                    Batches : Weekday/Weekend
                   </p>
                 </div>
               </div>
